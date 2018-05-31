@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2018-05-30T17:01:29-07:00
-draft: true
+draft: false
 tags: [ first-post,
         goals,
         hugo
